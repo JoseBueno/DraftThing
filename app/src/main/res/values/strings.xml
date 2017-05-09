@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Draft Thing</string>
+    <string name="hint_email_address">your email address</string>
+    <string name="hint_password">password</string>
+</resources>

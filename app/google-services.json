@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "308718315891",
+    "firebase_url": "https://draft-thing.firebaseio.com",
+    "project_id": "draft-thing",
+    "storage_bucket": "draft-thing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308718315891:android:6a0c5a3d96b1e16d",
+        "android_client_info": {
+          "package_name": "com.boredcodemonkey.draftthing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308718315891-6ikp26kcr9t3ck3au5ii7ittk0fjipp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdVG-2g7I3bAdyunt6SW-l79YNXZ3LQos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
